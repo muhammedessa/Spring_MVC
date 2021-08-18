@@ -1,0 +1,8 @@
+127.0.0.1 - - [10/Aug/2021:14:09:59 +0300] "GET /showStudent HTTP/1.1" 200 1816 http-bio-8080-exec-1 1043
+127.0.0.1 - - [10/Aug/2021:14:27:39 +0300] "GET /showStudent HTTP/1.1" 200 1816 http-bio-8080-exec-1 358
+127.0.0.1 - - [10/Aug/2021:14:27:41 +0300] "GET /addStudent? HTTP/1.1" 200 979 http-bio-8080-exec-2 981
+127.0.0.1 - - [10/Aug/2021:14:27:45 +0300] "POST /saveStudent HTTP/1.1" 302 - http-bio-8080-exec-3 42
+127.0.0.1 - - [10/Aug/2021:14:27:45 +0300] "GET /showStudent HTTP/1.1" 200 2021 http-bio-8080-exec-4 17
+127.0.0.1 - - [10/Aug/2021:14:27:47 +0300] "GET /addStudent? HTTP/1.1" 200 979 http-bio-8080-exec-5 7
+127.0.0.1 - - [10/Aug/2021:14:27:48 +0300] "POST /saveStudent HTTP/1.1" 302 - http-bio-8080-exec-6 10
+127.0.0.1 - - [10/Aug/2021:14:27:48 +0300] "GET /showStudent HTTP/1.1" 200 2226 http-bio-8080-exec-7 17

@@ -1,0 +1,5 @@
+com/muhammedessa/service/StudentService.class
+com/muhammedessa/controllers/LoginController.class
+com/muhammedessa/controllers/StudentController.class
+com/muhammedessa/models/Student.class
+com/muhammedessa/service/LoginService.class
